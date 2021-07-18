@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8XTj2TtZOwyIVI+H8Q3cXF1+9LHshUNyyGPlnhiViyzLwyFxaSLyNfR4BnWFFm3cCH4gUO/zDjqVU+3dMeOnw==",
+  "success": true,
+  "projectFilePath": "/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/ZartisRocketLanding.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielmarcoto/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/danielmarcoto/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
