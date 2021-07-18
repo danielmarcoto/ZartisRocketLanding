@@ -14,16 +14,24 @@ namespace ZartisRocketLanding
         public int Width { get; set; }
         public int Height {get; set; }
 
-        public LandingQueryReply QueryPosition(Rocket rocket) {
+        public LandingQueryReply QueryTrajectory(Rocket rocket) {
+
+            // Ok for Landing condition
+            if((rocket.Position.X >= Position.X 
+                && rocket.Position.X < (Position.X + Width))
+                && rocket.Position.Y >= Position.Y 
+                && rocket.Position.Y < (Position.Y + Height))
+                return LandingQueryReply.OkForLanding;
             
-            return LandingQueryReply.OkForLanding;
+            return LandingQueryReply.OutOfPlaform;
         }
     }
 
     public enum LandingQueryReply
     {
-        OutOfPlaform = 1,
+        OkForLanding = 1,
+        OutOfPlaform,
         Clash,
-        OkForLanding
+        
     }
 }
