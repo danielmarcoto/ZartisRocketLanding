@@ -1,9 +1,0 @@
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/bin/Debug/netstandard2.0/ZartisRocketLanding.deps.json
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/bin/Debug/netstandard2.0/ZartisRocketLanding.dll
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/bin/Debug/netstandard2.0/ZartisRocketLanding.pdb
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/obj/Debug/netstandard2.0/ZartisRocketLanding.csprojAssemblyReference.cache
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/obj/Debug/netstandard2.0/ZartisRocketLanding.AssemblyInfoInputs.cache
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/obj/Debug/netstandard2.0/ZartisRocketLanding.AssemblyInfo.cs
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/obj/Debug/netstandard2.0/ZartisRocketLanding.csproj.CoreCompileInputs.cache
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/obj/Debug/netstandard2.0/ZartisRocketLanding.dll
-/Users/danielmarcoto/development/dotnet/ZartisRocketLanding/ZartisRocketLanding/obj/Debug/netstandard2.0/ZartisRocketLanding.pdb
